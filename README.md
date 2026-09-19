@@ -12,20 +12,6 @@
 
 <p align="left">Most of my time goes into OSINT, Red Team tradecraft, and building tools that make recon and exploitation faster, quieter, and more repeatable</p>
 
-###
-<br>
-
-<p align='center'>
-<a href="http://bit.ly/3KEGoBG" target="_blank"><img height="70" src="https://user-images.githubusercontent.com/74038190/216656967-625b2a52-e638-4c21-a8ae-180560386f96.gif"></a>&nbsp;&nbsp;
-
-<br>
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iqlip&radius=16&theme=react&area=false&order=5&custom_title=Contribution%20Graph&hide_border=false" height="300" alt="activity-graph graph"  />
-</div>
-
 
 ### Tech Stack :
 
