@@ -1,3 +1,5 @@
+<img src="assets/graph.svg" alt="BloodHound-style attack path from STEVE@MEOW.LOCAL to MEOW.LOCAL" width="100%">
+
 ```
 beacon> shell type C:\Users\iqlip\intro.txt
 [*] Tasked beacon to run: type C:\Users\iqlip\intro.txt
