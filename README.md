@@ -32,6 +32,7 @@ beacon> ls C:\Tools
           dir     10/28/2026 18:40:51   Certipy
           dir     10/28/2026 18:39:12   Impacket
           dir     11/11/2026 23:02:36   NetExec
+ 318kb    fil     11/18/2026 23:41:09   agent.exe
  174kb    fil     10/03/2026 11:09:44   Certify.exe
  1mb      fil     11/14/2026 02:47:31   mimikatz.exe
  755kb    fil     09/15/2026 14:20:13   PowerView.ps1
