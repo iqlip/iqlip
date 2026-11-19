@@ -1,6 +1,6 @@
 <img src="assets/graph.svg" alt="BloodHound-style attack path from STEVE@MEOW.LOCAL to MEOW.LOCAL" width="100%">
 
-```
+```yaml
 beacon> shell type C:\Users\iqlip\intro.txt
 [*] Tasked beacon to run: type C:\Users\iqlip\intro.txt
 [+] host called home, sent: 52 bytes
@@ -22,7 +22,7 @@ beacon> shell type C:\Users\iqlip\intro.txt
 
 #### Arsenal
 
-```
+```yaml
 beacon> ls C:\Tools
 [*] Tasked beacon to list files in C:\Tools
 [+] host called home, sent: 19 bytes
